@@ -24,7 +24,7 @@
 #import "PocketAppDelegate.h"
 #import "PocketViewController.h"
 
-#import "PocketAPI.h"
+#import <PocketAPI/PocketAPI.h>
 
 #import "PocketCredentials.h"
 

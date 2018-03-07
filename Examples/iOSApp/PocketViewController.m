@@ -22,7 +22,7 @@
 //
 
 #import "PocketViewController.h"
-#import "PocketAPI.h"
+#import <PocketAPI/PocketAPI.h>
 #import "PocketRSSParser.h"
 
 #if !__has_feature(objc_arc)

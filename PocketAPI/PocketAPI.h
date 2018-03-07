@@ -45,6 +45,12 @@
 #import <Foundation/Foundation.h>
 #import "PocketAPITypes.h"
 
+//! Project version number for PocketAPI.
+FOUNDATION_EXPORT double PocketAPIVersionNumber;
+
+//! Project version string for PocketAPI.
+FOUNDATION_EXPORT const unsigned char PocketAPIVersionString[];
+
 @class PocketAPILogin;
 
 @interface PocketAPI : NSObject {

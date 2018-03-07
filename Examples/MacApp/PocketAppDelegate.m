@@ -8,7 +8,7 @@
 
 #import "PocketAppDelegate.h"
 
-#import "PocketAPI.h"
+#import <PocketAPI/PocketAPI.h>
 
 #import "PocketCredentials.h"
 
